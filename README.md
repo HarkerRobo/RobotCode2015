@@ -2,3 +2,5 @@ Robot Code 2015 Documentation [![Build Status](https://travis-ci.org/HarkerRobo/
 ==============
 
 Documentation for Robot Code for 2015
+
+Also available at [tiny.cc/harkerrobo2015](http://tiny.cc/harkerrobo2015)

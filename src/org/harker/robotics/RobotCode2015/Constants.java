@@ -16,11 +16,20 @@ public final class Constants {
     public static void updateConstants () {
         if (prefs == null)
             initializePreferences();
+        General.updateConstants();
         Drivetrain.updateConstants();
     }
 
     private static void initializePreferences () {
         prefs = Preferences.getInstance();
+    }
+    
+    public static class General {
+        public static boolean DEBUG;
+        
+        private static void updateConstants() {
+            DEBUG = prefs.getBoolean("gn_debug", false);
+        }
     }
 
     public static class Drivetrain {

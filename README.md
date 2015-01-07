@@ -1,4 +1,4 @@
-Robot Base Code [![Build Status](https://travis-ci.org/HarkerRobo/robocode15.png?branch=master)](https://travis-ci.org/HarkerRobo/robocode15)
+Robot Base Code [![Build Status](https://travis-ci.org/HarkerRobo/core.png?branch=master)](https://travis-ci.org/HarkerRobo/robocode15)
 ==============
 
 Basecode for Harker's FRC robot.

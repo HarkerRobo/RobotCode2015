@@ -1,7 +1,7 @@
-Robot Code 2015 [![Build Status](https://travis-ci.org/HarkerRobo/robocode15.png?branch=master)](https://travis-ci.org/HarkerRobo/robocode15)
+Robot Base Code [![Build Status](https://travis-ci.org/HarkerRobo/robocode15.png?branch=master)](https://travis-ci.org/HarkerRobo/robocode15)
 ==============
 
-Code for Harker's 2015 FRC robot.
+Basecode for Harker's FRC robot.
 
 ### Installation Instructions
 1. Clone the repository. (If you are having trouble here please learn how to GitHub first)

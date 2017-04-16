@@ -11,3 +11,4 @@ install:
 
 script:
   - ant -Dsunspot.home="`echo ~`"/sunspotfrcsdk jar-app
+  
